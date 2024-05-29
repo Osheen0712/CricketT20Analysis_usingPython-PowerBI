@@ -36,7 +36,7 @@ Install the required Python libraries using pip
 
 # Data Collection :
 The data is collected from multiple JSON files covering various aspects such as bowling, batting, match summaries, and player information. 
-These files are included in the "DataDirectory/Dataset_cricket"  directory of the repository.
+These files are included in the "Dataset_cricket"  directory of the repository.
   
 # Data Transformation :
 The data transformation is performed using Python, where data from JSON files is loaded, cleaned, and saved into CSV files for further analysis in Power BI.
@@ -47,7 +47,7 @@ For detailed code, refer to the "Cricket_T20_EDA.ipynb" file in the repository.
  - Load data from JSON files.
  - Convert JSON data to Pandas DataFrames.
  - Clean and transform the data.
- - Save transformed data to CSV files located in the DataDirectory/cricket_t20_csv directory.
+ - Save transformed data to CSV files located in the "cricket_t20_csv" directory of the repository.
 
 # Power BI Dashboard :
  # Steps to Create Dashboard :
