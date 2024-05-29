@@ -52,10 +52,20 @@ For detailed code, refer to the "Cricket_T20_EDA.ipynb" file in the repository.
 # Power BI Dashboard :
  # Steps to Create Dashboard :
   - Import CSV Files into Power BI: Load the transformed CSV files into Power BI.
- - Data Modeling: Establish relationships between different tables as needed.
+  - Data Modeling: Establish relationships between different tables as needed.
   - Create DAX Measures: Define DAX measures to perform advanced calculations.
   - Build Visualizations: Use Power BI’s visualization tools to create charts, graphs, and other visual elements.
   - Interactive Dashboard: Add slicers and filters for interactivity.
+
+### How to View the Report :
+   To view the Power BI report:
+      1. Download the " T20CricketProject.pbix " file from this repository.
+      2. Open the file with Power BI Desktop.
+
+### Report Insights
+ # The Power BI report is divided into two parts:
+  - Player Analysis Dashboard: Explore various dashboards and visualizations to analyze players based on their roles, such as power openers, middle order batsmen, finishers, fast bowlers, and all-rounders.
+  - Final 11 Selection: Choose your own final 11 players and calculate the combined performance in different fields, such as batting average, bowling economy, and fielding efficiency.
 
 # Usage :
  - Run Python Transformation: Execute the Python script to transform the JSON data and save it as CSV files.
